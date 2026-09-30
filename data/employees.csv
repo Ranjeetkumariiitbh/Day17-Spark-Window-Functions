@@ -1,0 +1,13 @@
+emp_id,name,department,salary,hire_date
+101,Asha,Engineering,120000,2019-03-11
+102,Bhanu,Engineering,135000,2018-07-01
+103,Chitra,Engineering,120000,2021-01-15
+104,Dev,Engineering,95000,2022-06-20
+105,Esha,Sales,80000,2020-02-10
+106,Farid,Sales,80000,2019-09-05
+107,Gita,Sales,70000,2021-11-30
+108,Harsh,Sales,60000,2023-04-01
+109,Indu,HR,65000,2017-05-22
+110,Jai,HR,65000,2020-08-14
+111,Kiran,HR,55000,2022-01-03
+112,Lata,Finance,90000,2018-12-12

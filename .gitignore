@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log
+output/
+checkpoint/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
